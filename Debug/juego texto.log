@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(59,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(370,28): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(417,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(420,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(605,93): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Ignacio\source\repos\juego texto\main.cpp(618,15): warning C4553: '==': result of expression not used; did you intend '='?
+  juego texto.vcxproj -> C:\Users\Ignacio\source\repos\juego texto\Debug\juego texto.exe
